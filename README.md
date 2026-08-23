@@ -21,14 +21,14 @@
 
 <br />
 
-About
+## About
 
 I came into data science through psychology. Four years of behavioural research
 before I wrote a line of production code, which is why I tend to start with the
 decision a person actually made rather than the feature that happens to
 correlate with it.
 
-I am finishing an M.S. in Data Analytics and Computational Social Science at
+I am finishing an **M.S. in Data Analytics and Computational Social Science** at
 UMass Amherst. Before that, a postgraduate diploma at UT Austin and a B.S. in
 Psychology with a computer science minor at Virginia Tech. I ran a dining hall
 for five and a half years while doing most of it.
@@ -40,13 +40,13 @@ against my data. If I cannot link it, it is not on this page.
 
 <br />
 
-Work you can open
+## Work you can open
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Mental Health Signal on Reddit
+### [Mental Health Signal on Reddit](https://github.com/rishav-dev/MentalHealthResearch-SocialMedia)
 
 <img src="https://img.shields.io/badge/25,886-posts_and_comments-22D9FF?style=flat-square&labelColor=050509" alt="25,886 posts and comments" />
 
@@ -57,12 +57,12 @@ classifiers put against each other on the labels.
 Raw CSVs, scored CSVs, model results and the Dash dashboard are all in
 the repo.
 
-Python PRAW scikit-learn NLTK VADER Transformers Plotly Dash
+`Python` `PRAW` `scikit-learn` `NLTK VADER` `Transformers` `Plotly Dash`
 
 </td>
 <td width="50%" valign="top">
 
-Campus Safety Alerts, Ten Universities
+### [Campus Safety Alerts, Ten Universities](https://github.com/rishav-dev/Project-DACSS-758)
 
 <img src="https://img.shields.io/badge/519-documents,_10_universities-FFB02E?style=flat-square&labelColor=050509" alt="519 documents across 10 universities" />
 
@@ -73,14 +73,14 @@ HTML and PDF, 506 and 13.
 Every row carries the archive URL, source URL, content hash and scrape
 timestamp.
 
-Python BeautifulSoup pdfminer.six cloudscraper
+`Python` `BeautifulSoup` `pdfminer.six` `cloudscraper`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-The Evolution of the Billboard Hot 100
+### [The Evolution of the Billboard Hot 100](https://github.com/rishav-dev/690s-final)
 
 <img src="https://img.shields.io/badge/24-years_of_charts,_scrollytold-6258FF?style=flat-square&labelColor=050509" alt="24 years of charts" />
 
@@ -91,12 +91,12 @@ ending in a 3D pass through the feature space.
 Missing numerics are filtered, not imputed. A quietly imputed audio
 feature is a lie you then plot.
 
-D3.js Three.js JavaScript Python
+`D3.js` `Three.js` `JavaScript` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-Misere Nim Agent
+### [Misere Nim Agent](https://github.com/rishav-dev/nim-agent)
 
 <img src="https://img.shields.io/badge/0.82s-hard_move_budget-B2FF3E?style=flat-square&labelColor=050509" alt="0.82 second move budget" />
 
@@ -108,7 +108,7 @@ The server allows one second. I budget 0.82 and compute a known-good
 fallback before the search starts, so a slow board still returns a legal
 move.
 
-Python Minimax Alpha-beta pruning Memoisation
+`Python` `Minimax` `Alpha-beta pruning` `Memoisation`
 
 </td>
 </tr>
@@ -121,56 +121,22 @@ Python Minimax Alpha-beta pruning Memoisation
 
 Logistic regression and the random forest tied. The SVM was a hair behind.
 
-Model
-
-Accuracy
-
-Precision
-
-Recall
-
-F1
-
-Logistic Regression
-
-0.9125
-
-0.8327
-
-0.9125
-
-0.8708
-
-Random Forest
-
-0.9125
-
-0.8327
-
-0.9125
-
-0.8708
-
-Linear SVM
-
-0.9063
-
-0.8322
-
-0.9063
-
-0.8676
+| Model | Accuracy | Precision | Recall | F1 |
+|---|---|---|---|---|
+| Logistic Regression | 0.9125 | 0.8327 | 0.9125 | 0.8708 |
+| Random Forest | 0.9125 | 0.8327 | 0.9125 | 0.8708 |
+| Linear SVM | 0.9063 | 0.8322 | 0.9063 | 0.8676 |
 
 Those three are closer to each other than any of them is to a careful reading of
 what the labels actually mean, and I think that is the honest thing to say about
 this kind of work.
 
 The finding worth having came from the topic modelling instead. The clusters are
-mostly not about mental health. They are about money, housing, politics and
+mostly **not** about mental health. They are about money, housing, politics and
 social media. The subreddit is where people go to talk about anxiety, and what
 they talk about is rent.
 
-Figures are in ml_model_results.csv in the repo.
+Figures are in `ml_model_results.csv` in the repo.
 
 </details>
 
@@ -179,10 +145,10 @@ Figures are in ml_model_results.csv in the repo.
 
 <br />
 
-nutri-navigator-app Dart
+**[nutri-navigator-app](https://github.com/rishav-dev/nutri-navigator-app)** `Dart`
 The NutriNavigator client, built in Flutter. One of the six Kinnovation ventures.
 
-rishav-dev.github.io TypeScript
+**[rishav-dev.github.io](https://github.com/rishav-dev/rishav-dev.github.io)** `TypeScript`
 My portfolio, hand-built. Next.js static export, a WebGL boot sequence written
 against raw WebGL2 rather than a library, and an assistant that runs on a
 Cloudflare Worker so there is no API key anywhere in the client.
@@ -191,127 +157,60 @@ Cloudflare Worker so there is no API key anywhere in the client.
 
 <br />
 
-Kinnovation
+## Kinnovation
 
-A venture studio I co-founded with Kinjal Pandey.
+A venture studio I co-founded with **[Kinjal Pandey](https://kinjalpandey.com/)**.
 Six ventures, all joint work, all built by the two of us:
-Karnah,
-CalendAI,
-MeAsmi,
-NutriNavigator,
-Witness, and Trendify AI.
+[Karnah](https://kinnovationgroup.com/karnah),
+[CalendAI](https://kinnovationgroup.com/calendai),
+[MeAsmi](https://kinnovationgroup.com/measmi),
+[NutriNavigator](https://kinnovationgroup.com/nutri-navigator),
+[Witness](https://kinnovationgroup.com/witness-platform), and Trendify AI.
 
-Three pitch competitions, $1,550 in prize money, won together. Neither of us
+Three pitch competitions, **$1,550** in prize money, won together. Neither of us
 has ever pitched alone.
 
-Venture
-
-Prize
-
-Competition
-
-Awarded by
-
-When
-
-Karnah
-
-$750, second place
-
-UPitch Spring 2026
-
-UMass Amherst Entrepreneurship Club
-
-Apr 2026
-
-CalendAI
-
-$500
-
-Pitch competition
-
-Apex Center for Entrepreneurs, Virginia Tech
-
-Nov 2024
-
-Trendify AI
-
-$300
-
-Minute Pitch
-
-Berthiaume Center, UMass Amherst
-
-Oct 2025
+| Venture | Prize | Competition | Awarded by | When |
+|---|---|---|---|---|
+| Karnah | **$750**, second place | UPitch Spring 2026 | UMass Amherst Entrepreneurship Club | Apr 2026 |
+| CalendAI | **$500** | Pitch competition | Apex Center for Entrepreneurs, Virginia Tech | Nov 2024 |
+| Trendify AI | **$300** | Minute Pitch | Berthiaume Center, UMass Amherst | Oct 2025 |
 
 All six are in development or at concept stage. None is a launched commercial
 product and none is fundraising. More at
-kinnovationgroup.com.
+**[kinnovationgroup.com](https://kinnovationgroup.com)**.
 
 <br />
 
-Stack
+## Stack
 
-Languages
+**Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-22D9FF?style=flat-square&labelColor=050509&logo=python&logoColor=22D9FF" alt="Python" />
-  <img src="https://img.shields.io/badge/R-22D9FF?style=flat-square&labelColor=050509&logo=r&logoColor=22D9FF" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-22D9FF?style=flat-square&labelColor=050509&logo=postgresql&logoColor=22D9FF" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-22D9FF?style=flat-square&labelColor=050509&logo=javascript&logoColor=22D9FF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-22D9FF?style=flat-square&labelColor=050509&logo=typescript&logoColor=22D9FF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-22D9FF?style=flat-square&labelColor=050509&logo=openjdk&logoColor=22D9FF" alt="Java" />
-  <img src="https://img.shields.io/badge/MATLAB-22D9FF?style=flat-square&labelColor=050509" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Bash-22D9FF?style=flat-square&labelColor=050509&logo=gnubash&logoColor=22D9FF" alt="Bash" />
-</p>
+<img src="https://img.shields.io/badge/Python-22D9FF?style=flat-square&labelColor=050509&logo=python&logoColor=22D9FF" alt="Python" /> <img src="https://img.shields.io/badge/R-22D9FF?style=flat-square&labelColor=050509&logo=r&logoColor=22D9FF" alt="R" /> <img src="https://img.shields.io/badge/SQL-22D9FF?style=flat-square&labelColor=050509&logo=postgresql&logoColor=22D9FF" alt="SQL" /> <img src="https://img.shields.io/badge/JavaScript-22D9FF?style=flat-square&labelColor=050509&logo=javascript&logoColor=22D9FF" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-22D9FF?style=flat-square&labelColor=050509&logo=typescript&logoColor=22D9FF" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-22D9FF?style=flat-square&labelColor=050509&logo=openjdk&logoColor=22D9FF" alt="Java" /> <img src="https://img.shields.io/badge/MATLAB-22D9FF?style=flat-square&labelColor=050509" alt="MATLAB" /> <img src="https://img.shields.io/badge/Bash-22D9FF?style=flat-square&labelColor=050509&logo=gnubash&logoColor=22D9FF" alt="Bash" />
 
-Machine learning and analysis
+**Machine learning and analysis**
 
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-6258FF?style=flat-square&labelColor=050509&logo=scikitlearn&logoColor=6258FF" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-6258FF?style=flat-square&labelColor=050509&logo=tensorflow&logoColor=6258FF" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/pandas-6258FF?style=flat-square&labelColor=050509&logo=pandas&logoColor=6258FF" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-6258FF?style=flat-square&labelColor=050509&logo=numpy&logoColor=6258FF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Transformers-6258FF?style=flat-square&labelColor=050509&logo=huggingface&logoColor=6258FF" alt="Transformers" />
-  <img src="https://img.shields.io/badge/NLTK-6258FF?style=flat-square&labelColor=050509" alt="NLTK" />
-  <img src="https://img.shields.io/badge/statnet_/_ERGM-6258FF?style=flat-square&labelColor=050509" alt="statnet and ERGM" />
-  <img src="https://img.shields.io/badge/Time_series-6258FF?style=flat-square&labelColor=050509" alt="Time series" />
-</p>
+<img src="https://img.shields.io/badge/scikit--learn-6258FF?style=flat-square&labelColor=050509&logo=scikitlearn&logoColor=6258FF" alt="scikit-learn" /> <img src="https://img.shields.io/badge/TensorFlow-6258FF?style=flat-square&labelColor=050509&logo=tensorflow&logoColor=6258FF" alt="TensorFlow" /> <img src="https://img.shields.io/badge/pandas-6258FF?style=flat-square&labelColor=050509&logo=pandas&logoColor=6258FF" alt="pandas" /> <img src="https://img.shields.io/badge/NumPy-6258FF?style=flat-square&labelColor=050509&logo=numpy&logoColor=6258FF" alt="NumPy" /> <img src="https://img.shields.io/badge/Transformers-6258FF?style=flat-square&labelColor=050509&logo=huggingface&logoColor=6258FF" alt="Transformers" /> <img src="https://img.shields.io/badge/NLTK-6258FF?style=flat-square&labelColor=050509" alt="NLTK" /> <img src="https://img.shields.io/badge/statnet_/_ERGM-6258FF?style=flat-square&labelColor=050509" alt="statnet and ERGM" /> <img src="https://img.shields.io/badge/Time_series-6258FF?style=flat-square&labelColor=050509" alt="Time series" />
 
-Visualisation
+**Visualisation**
 
-<p>
-  <img src="https://img.shields.io/badge/D3.js-FFB02E?style=flat-square&labelColor=050509&logo=d3dotjs&logoColor=FFB02E" alt="D3.js" />
-  <img src="https://img.shields.io/badge/Three.js-FFB02E?style=flat-square&labelColor=050509&logo=threedotjs&logoColor=FFB02E" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Plotly_Dash-FFB02E?style=flat-square&labelColor=050509&logo=plotly&logoColor=FFB02E" alt="Plotly Dash" />
-  <img src="https://img.shields.io/badge/Power_BI-FFB02E?style=flat-square&labelColor=050509&logo=powerbi&logoColor=FFB02E" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Matplotlib-FFB02E?style=flat-square&labelColor=050509" alt="Matplotlib" />
-</p>
+<img src="https://img.shields.io/badge/D3.js-FFB02E?style=flat-square&labelColor=050509&logo=d3dotjs&logoColor=FFB02E" alt="D3.js" /> <img src="https://img.shields.io/badge/Three.js-FFB02E?style=flat-square&labelColor=050509&logo=threedotjs&logoColor=FFB02E" alt="Three.js" /> <img src="https://img.shields.io/badge/Plotly_Dash-FFB02E?style=flat-square&labelColor=050509&logo=plotly&logoColor=FFB02E" alt="Plotly Dash" /> <img src="https://img.shields.io/badge/Power_BI-FFB02E?style=flat-square&labelColor=050509&logo=powerbi&logoColor=FFB02E" alt="Power BI" /> <img src="https://img.shields.io/badge/Matplotlib-FFB02E?style=flat-square&labelColor=050509" alt="Matplotlib" />
 
-Platforms
+**Platforms**
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-B2FF3E?style=flat-square&labelColor=050509&logo=mongodb&logoColor=B2FF3E" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL_Server-B2FF3E?style=flat-square&labelColor=050509&logo=microsoftsqlserver&logoColor=B2FF3E" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/Google_Cloud-B2FF3E?style=flat-square&labelColor=050509&logo=googlecloud&logoColor=B2FF3E" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/React-B2FF3E?style=flat-square&labelColor=050509&logo=react&logoColor=B2FF3E" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-B2FF3E?style=flat-square&labelColor=050509&logo=nodedotjs&logoColor=B2FF3E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-B2FF3E?style=flat-square&labelColor=050509&logo=flutter&logoColor=B2FF3E" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Docker-B2FF3E?style=flat-square&labelColor=050509&logo=docker&logoColor=B2FF3E" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-B2FF3E?style=flat-square&labelColor=050509&logo=cloudflare&logoColor=B2FF3E" alt="Cloudflare Workers" />
-</p>
+<img src="https://img.shields.io/badge/MongoDB-B2FF3E?style=flat-square&labelColor=050509&logo=mongodb&logoColor=B2FF3E" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQL_Server-B2FF3E?style=flat-square&labelColor=050509&logo=microsoftsqlserver&logoColor=B2FF3E" alt="Microsoft SQL Server" /> <img src="https://img.shields.io/badge/Google_Cloud-B2FF3E?style=flat-square&labelColor=050509&logo=googlecloud&logoColor=B2FF3E" alt="Google Cloud" /> <img src="https://img.shields.io/badge/React-B2FF3E?style=flat-square&labelColor=050509&logo=react&logoColor=B2FF3E" alt="React" /> <img src="https://img.shields.io/badge/Node.js-B2FF3E?style=flat-square&labelColor=050509&logo=nodedotjs&logoColor=B2FF3E" alt="Node.js" /> <img src="https://img.shields.io/badge/Flutter-B2FF3E?style=flat-square&labelColor=050509&logo=flutter&logoColor=B2FF3E" alt="Flutter" /> <img src="https://img.shields.io/badge/Docker-B2FF3E?style=flat-square&labelColor=050509&logo=docker&logoColor=B2FF3E" alt="Docker" /> <img src="https://img.shields.io/badge/Cloudflare_Workers-B2FF3E?style=flat-square&labelColor=050509&logo=cloudflare&logoColor=B2FF3E" alt="Cloudflare Workers" />
 
 <br />
 
-Also
+## Also
 
-The Action Taker Award, LISC Massachusetts and the IXL Center, 2025. Given
+**The Action Taker Award**, LISC Massachusetts and the IXL Center, 2025. Given
 for leading the digital upgrades through their Digital Growth Accelerator. The
 name is the part I liked. It was for executing, not for proposing.
 
-Selected for the Franklin County CDC Entrepreneurs Accelerator, Spring 2026.
+Selected for the **Franklin County CDC Entrepreneurs Accelerator**, Spring 2026.
 
-IBM Z Xplore, Mainframes and Machine Learning.
+**IBM Z Xplore**, Mainframes and Machine Learning.
 
 <br />
 
