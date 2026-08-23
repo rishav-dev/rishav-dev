@@ -1,222 +1,159 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Rishav Chakravarty — Data Analytics & Computational Social Science" width="100%" />
+  <img src="./assets/banner.png" alt="Rishav Chakravarty. Built on data. Driven by curiosity." width="100%" />
 </div>
 
 <div align="center">
 
-<a href="https://rishavchakravarty.com"><img src="https://img.shields.io/badge/Portfolio-rishavchakravarty.com-2DD4BF?style=for-the-badge&labelColor=0B1220&logo=googlechrome&logoColor=2DD4BF" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/rishav-dsc"><img src="https://img.shields.io/badge/LinkedIn-rishav--dsc-38BDF8?style=for-the-badge&labelColor=0B1220&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-<a href="mailto:rishavchakra@umass.edu"><img src="https://img.shields.io/badge/Email-rishavchakra@umass.edu-FBBF24?style=for-the-badge&labelColor=0B1220&logo=gmail&logoColor=FBBF24" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=rishav-dev&style=for-the-badge&color=2dd4bf&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=780&height=45&lines=Turning+behavioral+data+into+decisions;Machine+Learning+%C2%B7+Causal+Inference+%C2%B7+Networks;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+React;Open+to+Data+Science+%26+Analytics+roles" alt="What I do" />
-</div>
-
----
-
-## 🧭 About
-
-I'm a **psychology brain with an engineer's hands.** I'm finishing an **M.S. in Data Analytics & Computational Social Science (DACSS)** at **UMass Amherst**, where I study how human behavior leaves a trace in data — social networks, mental health signals, urban mobility — and then build the models and interfaces that make those findings usable by someone who isn't a statistician.
-
-Before UMass: a **PG Diploma in Data Science & Business Analytics (UT Austin)** and a **B.S. in Psychology with a CS minor (Virginia Tech)**. That combination is the whole point — I care as much about *why* people do the thing as about the AUC of the model that predicts it.
-
-```python
-rishav = {
-    "role":      "Data Scientist / Analyst · Computational Social Scientist",
-    "based_in":  "Amherst, MA",
-    "studying":  "M.S. Data Analytics & Computational Social Science @ UMass",
-    "working_on": ["network inference", "behavioral experiments", "analytics dashboards"],
-    "ask_me_about": ["ERGMs", "A/B testing", "feature engineering", "shipping the dashboard"],
-    "status":    "open to Data Science & Analytics roles",
-}
-```
-
----
-
-## 🧰 Toolbox
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0B1220)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=0B1220)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0B1220)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0B1220)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0B1220)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0B1220)
-
-**Data science & ML**
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0B1220)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0B1220)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0B1220)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&labelColor=0B1220)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0B1220)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0B1220)
-
-**Statistics, viz & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0B1220)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white&labelColor=0B1220)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0B1220)
-![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=rstudio&logoColor=75AADB&labelColor=0B1220)
-![ERGM / RSiena](https://img.shields.io/badge/ERGM_·_RSiena-276DC3?style=for-the-badge&logoColor=white&labelColor=0B1220)
-
-**Build & ship**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0B1220)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0B1220)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0B1220)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0B1220)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0B1220)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0B1220)
-
----
-
-## 🔬 Research & computational social science
-
-> Where most of my current energy goes: inference on human behavior, not just prediction.
-
-| Project | The question | Method & stack |
-|---|---|---|
-| **Physical Co‑Presence, Communication & Facebook Friendship** | Do Bluetooth proximity and SMS traffic actually predict who becomes friends? Modeled across **6,429 friendship ties** in the Copenhagen Networks Study. | `R` · ERGM · RSiena · community detection · network statistics |
-| **[Mental Health & Social Media](https://github.com/rishav-dev/MentalHealthResearch-SocialMedia)** | How do social‑media behavior signals track with self‑reported mental health outcomes? | `Python` · pandas · EDA · statistical testing |
-| **AI Advice‑Seeking Experiment** | Do people judge you differently for taking advice from a chatbot vs. a friend vs. a therapist? Randomized survey experiment. | `R` · tidyverse · ANOVA · survey design |
-| **Scheduling Structure & Task Completion Time** | Does load imbalance *interact* with deadline pressure to slow task completion? | `R` · linear regression · moderation analysis · HC3 robust SEs |
-| **[StressMap](https://github.com/rishav-dev/StressMap)** | Scoring Level of Traffic Stress for real street networks from OpenStreetMap data. | `Python` · Jupyter · geospatial · OSM |
-
----
-
-## 📊 Applied ML & business analytics
-
-<table>
-<tr><td width="50%" valign="top">
-
-**Prediction & classification**
-- **ReneWind** — turbine generator failure prediction from sensor data, tuned for preventive maintenance recall  <br/>`classification · sampling · regularization · hyperparameter tuning`
-- **EasyVisa** — visa certification outcomes with boosted ensembles  <br/>`Random Forest · AdaBoost · Gradient Boosting · XGBoost · GridSearchCV`
-- **INN Hotels** — which bookings signal cancellation risk before arrival  <br/>`logistic regression · decision trees · AUC‑ROC`
-- **Face Recognition** — real‑time detection at **93% accuracy**, tuned for inference speed  <br/>`TensorFlow · GPU acceleration`
-
-</td><td width="50%" valign="top">
-
-**Pricing, segmentation & experimentation**
-- **ReCell** — dynamic pricing for **20,000+** refurbished devices; isolating true resale‑value drivers  <br/>`regression · EDA · business analytics`
-- **Trade&Ahead** — clustering stocks into interpretable groups for portfolio diversification  <br/>`K‑means · hierarchical clustering`
-- **E‑news Express** — A/B test on a new landing page, segmented by language preference  <br/>`hypothesis testing · A/B testing`
-- **FoodHub** — operational recommendations from food‑aggregator order data  <br/>`EDA · univariate/bivariate analysis`
-
-</td></tr>
-</table>
-
----
-
-## 🛠️ I ship things too
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🥗 [nutri-navigator-app](https://github.com/rishav-dev/nutri-navigator-app)
-
-Cross‑platform nutrition app — built mobile‑first, so the data actually gets used where people eat.
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0B1220)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0B1220)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [rishav-dev.github.io](https://github.com/rishav-dev/rishav-dev.github.io)
-
-My portfolio, hand‑built and self‑maintained → **[rishavchakravarty.com](https://rishavchakravarty.com)**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0B1220)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0B1220)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [MentalHealthResearch-SocialMedia](https://github.com/rishav-dev/MentalHealthResearch-SocialMedia)
-
-How social‑media behavior signals track with self‑reported mental health outcomes.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0B1220)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0B1220)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ [StressMap](https://github.com/rishav-dev/StressMap)
-
-Level of Traffic Stress scored across real street networks from OpenStreetMap data.
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0B1220)
-![Geospatial](https://img.shields.io/badge/Geospatial-2DD4BF?style=flat-square&labelColor=0B1220)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-dev&bg_color=0B1220&color=E6EDF3&title_color=2DD4BF&line=2DD4BF&point=FBBF24&area=true&area_color=2DD4BF&hide_border=true" alt="Contribution activity" />
-
-<!--
-  OPTIONAL — the stats, top-languages, streak and trophy cards.
-
-  All four query the GitHub API, which needs an access token. The free public
-  instances share one token across the entire internet, so they spend most of
-  the day rate-limited and render as broken images. That is why they were
-  removed — nothing here is wrong with your setup.
-
-  To get them back reliably, deploy your own copy with your own token (~4 min,
-  free): https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  Then swap YOUR-INSTANCE for your Vercel URL and uncomment.
-
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=rishav-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2DD4BF&text_color=93A4B8&icon_color=FBBF24&bg_color=0B1220" alt="GitHub stats" />
-  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=rishav-dev&layout=compact&langs_count=8&hide_border=true&title_color=2DD4BF&text_color=93A4B8&bg_color=0B1220" alt="Top languages" />
--->
+<a href="https://www.rishavchakravarty.com"><img src="https://img.shields.io/badge/Portfolio-rishavchakravarty.com-22D9FF?style=for-the-badge&labelColor=050509&logo=googlechrome&logoColor=22D9FF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/rishav-dsc"><img src="https://img.shields.io/badge/LinkedIn-rishav--dsc-6258FF?style=for-the-badge&labelColor=050509&logo=linkedin&logoColor=6258FF" alt="LinkedIn" /></a>
+<a href="mailto:rishavchakra@umass.edu"><img src="https://img.shields.io/badge/Email-rishavchakra@umass.edu-B2FF3E?style=for-the-badge&labelColor=050509&logo=gmail&logoColor=B2FF3E" alt="Email" /></a>
 
 </div>
 
 ---
 
-## 🏆 Recognition
+## About
 
-![UPitch](https://img.shields.io/badge/UPitch_Spring_2026-2nd_Place-FBBF24?style=for-the-badge&labelColor=0B1220)
-![KickStart VT](https://img.shields.io/badge/KickStart_VT-Seed_Grant_Winner-2DD4BF?style=for-the-badge&labelColor=0B1220)
-![Action Taker](https://img.shields.io/badge/The_Action_Taker-Award-38BDF8?style=for-the-badge&labelColor=0B1220)
+I came into data science through psychology. Four years of behavioural research
+before I wrote a line of production code, which is why I tend to start with the
+decision a person actually made rather than the feature that happens to
+correlate with it.
+
+I am finishing an **M.S. in Data Analytics and Computational Social Science** at
+UMass Amherst. Before that, a postgraduate diploma at UT Austin and a B.S. in
+Psychology with a computer science minor at Virginia Tech. I ran a dining hall
+for five and a half years while doing most of it.
+
+Everything below with a repository link is something you can clone and re-run.
+Where there is no link, I say so rather than quoting a number nobody can check.
+
+**Open to data science, machine learning and analytics roles.**
 
 ---
 
-## 🎯 Currently
+## Work you can open
 
-```
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░]  M.S. DACSS @ UMass Amherst
-[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  Network inference on real social data
-[▓▓▓▓▓▓▓▓░░░░░░░░░░░░]  Porting my analytics projects onto GitHub
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓]  Coffee
-```
+### [MentalHealthResearch-SocialMedia](https://github.com/rishav-dev/MentalHealthResearch-SocialMedia)
 
-> **🟢 Open to Data Science, Data Analytics & Research roles.** If you're building something where behavior and data meet, I'd like to hear about it.
+`Python` · `PRAW` · `scikit-learn` · `NLTK VADER` · `Transformers` · `Plotly Dash`
+
+I pulled **6,398 posts and 19,488 comments** out of r/Anxiety, r/depression and
+r/mentalhealth, scored every one of them three separate ways (VADER, TextBlob,
+and a HuggingFace transformer), then put three classifiers against each other on
+the sentiment labels.
+
+| Model | Accuracy | Precision | Recall | F1 |
+|---|---|---|---|---|
+| Logistic Regression | 0.9125 | 0.8327 | 0.9125 | 0.8708 |
+| Random Forest | 0.9125 | 0.8327 | 0.9125 | 0.8708 |
+| Linear SVM | 0.9063 | 0.8322 | 0.9063 | 0.8676 |
+
+Those three are closer to each other than any of them is to a careful reading of
+what the labels actually mean, and I think that is the honest thing to say about
+this kind of work. The finding I would defend in a room came from the topic
+modelling instead: the clusters are mostly **not** about mental health. They are
+about money, housing, politics and social media. The subreddit is where people
+go to talk about anxiety, and what they talk about is rent.
+
+Raw CSVs, scored CSVs, model results and the dashboard are all in the repo.
+
+### [690s-final](https://github.com/rishav-dev/690s-final)
+
+`D3.js` · `Three.js` · `JavaScript` · `Python`
+
+The Evolution of the Billboard Hot 100, 2000 to 2023. A scrollytelling piece
+built on chart data joined to Spotify audio features. You scroll and the
+argument moves: long-term trends in danceability, energy and valence, then how
+the distribution of what makes a song chart has shifted, then a 3D pass through
+the feature space for the point where two dimensions stop being enough.
+
+Missing numerics are normalised to null and filtered rather than imputed. A
+quietly imputed audio feature is a lie you then plot.
+
+### [StressMap](https://github.com/rishav-dev/StressMap) · [nutri-navigator-app](https://github.com/rishav-dev/nutri-navigator-app) · [rishav-dev.github.io](https://github.com/rishav-dev/rishav-dev.github.io)
+
+Level of Traffic Stress scored across real street networks from OpenStreetMap
+data, forked from UMassCDS. A nutrition app in Dart and Flutter. And this
+portfolio, hand-built: Next.js, a WebGL boot sequence, and an assistant with no
+API key anywhere.
+
+---
+
+## Coursework, no public repository
+
+Listed because the work is real, without headline numbers because you cannot
+check them from here. Happy to walk through any of it.
+
+- **Copenhagen Networks Study.** Exponential random graph modelling on Facebook
+  friendship ties in a closed student population, with proximity and call
+  records alongside. Reported as odds ratios with degeneracy checks, because
+  without those the numbers are decoration.
+- **AI advice-seeking experiment.** A pre-specified survey experiment on when
+  people accept advice from a model instead of a person, analysed with ANOVA.
+- **Face recognition.** TensorFlow detection for live video and stills, tuned
+  against a real-time latency budget rather than accuracy alone.
+- **ReCell dynamic pricing.** Regression over refurbished device sales to find
+  which drivers of resale value were real and which the business only believed.
+- **S&P 500 clustering.** k-means and hierarchical, run together so I could
+  report where they disagreed. That disagreement is a fact about the distance
+  metric, and it is the more useful lesson.
+
+---
+
+## Kinnovation
+
+A venture studio I co-founded with **[Kinjal Pandey](https://kinjalpandey.com/)**.
+Six ventures, all joint work, all built by the two of us:
+[Karnah](https://kinnovationgroup.com/karnah),
+[CalendAI](https://kinnovationgroup.com/calendai),
+[MeAsmi](https://kinnovationgroup.com/measmi),
+[NutriNavigator](https://kinnovationgroup.com/nutri-navigator),
+[Witness](https://kinnovationgroup.com/witness-platform), and Trendify AI.
+
+Three pitch competitions, **$1,550** in prize money, won together. Neither of us
+has ever pitched alone.
+
+| Venture | Prize | Competition | Awarded by | When |
+|---|---|---|---|---|
+| Karnah | $750, second place | UPitch Spring 2026 | UMass Amherst Entrepreneurship Club | Apr 2026 |
+| Trendify AI | $300 | Minute Pitch | Berthiaume Center, UMass Amherst | Oct 2025 |
+| CalendAI | $500 | | Apex Center for Entrepreneurs, Virginia Tech | Nov 2024 |
+
+All six are in development or at concept stage. None is a launched commercial
+product and none is fundraising.
+
+More at **[kinnovationgroup.com](https://kinnovationgroup.com)**.
+
+---
+
+## Stack
+
+**Languages** Python · R · SQL · JavaScript · TypeScript · Java · MATLAB · Bash
+
+**ML and analysis** scikit-learn · TensorFlow · pandas · NumPy · Transformers ·
+NLTK · statnet / ERGM · time series
+
+**Visualisation** D3.js · Three.js · Plotly Dash · Power BI · Matplotlib
+
+**Platforms** MongoDB · Microsoft SQL Server · Google Cloud · React · Node.js ·
+Flutter · Docker · Git
+
+---
+
+## Also
+
+**The Action Taker Award**, LISC Massachusetts and the IXL Center, 2025. Given
+for leading the digital upgrades through their Digital Growth Accelerator. The
+name is the part I liked. It was for executing, not for proposing.
+
+Selected for the **Franklin County CDC Entrepreneurs Accelerator**, Spring 2026.
+
+---
 
 <div align="center">
-
-<a href="mailto:rishavchakra@umass.edu"><img src="https://img.shields.io/badge/Let's_talk-rishavchakra@umass.edu-2DD4BF?style=for-the-badge&labelColor=0B1220&logo=minutemailer&logoColor=2DD4BF" alt="Email me" /></a>
-<a href="https://www.linkedin.com/in/rishav-dsc"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-38BDF8?style=for-the-badge&labelColor=0B1220&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-<a href="https://rishavchakravarty.com"><img src="https://img.shields.io/badge/See_the-Portfolio-FBBF24?style=for-the-badge&labelColor=0B1220&logo=safari&logoColor=FBBF24" alt="Portfolio" /></a>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-dev&bg_color=050509&color=F3F3F7&title_color=22D9FF&line=6258FF&point=B2FF3E&area=true&area_color=6258FF&hide_border=true" alt="Contribution activity" />
 </div>
 
 <div align="center">
-  <sub><code>signal &gt; noise</code></sub>
+  <sub>Amherst, Massachusetts · <a href="mailto:rishavchakra@umass.edu">rishavchakra@umass.edu</a></sub>
 </div>
