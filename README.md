@@ -115,27 +115,52 @@ rishav = {
 
 ## 🛠️ I ship things too
 
-<div align="center">
-  <a href="https://github.com/rishav-dev/nutri-navigator-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-dev&repo=nutri-navigator-app&theme=transparent&title_color=2DD4BF&text_color=93A4B8&icon_color=FBBF24&border_color=1E2A3A&bg_color=0B1220" alt="nutri-navigator-app" />
-  </a>
-  <a href="https://github.com/rishav-dev/rishav-dev.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-dev&repo=rishav-dev.github.io&theme=transparent&title_color=2DD4BF&text_color=93A4B8&icon_color=FBBF24&border_color=1E2A3A&bg_color=0B1220" alt="rishav-dev.github.io" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <a href="https://github.com/rishav-dev/MentalHealthResearch-SocialMedia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-dev&repo=MentalHealthResearch-SocialMedia&theme=transparent&title_color=2DD4BF&text_color=93A4B8&icon_color=FBBF24&border_color=1E2A3A&bg_color=0B1220" alt="MentalHealthResearch-SocialMedia" />
-  </a>
-  <a href="https://github.com/rishav-dev/690s-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishav-dev&repo=690s-final&theme=transparent&title_color=2DD4BF&text_color=93A4B8&icon_color=FBBF24&border_color=1E2A3A&bg_color=0B1220" alt="690s-final" />
-  </a>
-</div>
+### 🥗 [nutri-navigator-app](https://github.com/rishav-dev/nutri-navigator-app)
 
-- 🥗 **nutri-navigator-app** — cross‑platform nutrition app in Flutter/Dart
-- 🌐 **rishav-dev.github.io** — my portfolio in TypeScript → [rishavchakravarty.com](https://rishavchakravarty.com)
-- 🧪 **690s-final** — DACSS coursework, in JavaScript
+Cross‑platform nutrition app — built mobile‑first, so the data actually gets used where people eat.
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0B1220)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0B1220)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [rishav-dev.github.io](https://github.com/rishav-dev/rishav-dev.github.io)
+
+My portfolio, hand‑built and self‑maintained → **[rishavchakravarty.com](https://rishavchakravarty.com)**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0B1220)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0B1220)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [MentalHealthResearch-SocialMedia](https://github.com/rishav-dev/MentalHealthResearch-SocialMedia)
+
+How social‑media behavior signals track with self‑reported mental health outcomes.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0B1220)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0B1220)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ [StressMap](https://github.com/rishav-dev/StressMap)
+
+Level of Traffic Stress scored across real street networks from OpenStreetMap data.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0B1220)
+![Geospatial](https://img.shields.io/badge/Geospatial-2DD4BF?style=flat-square&labelColor=0B1220)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -143,10 +168,19 @@ rishav = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishav-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2DD4BF&text_color=93A4B8&icon_color=FBBF24&bg_color=0B1220" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-dev&layout=compact&langs_count=8&hide_border=true&title_color=2DD4BF&text_color=93A4B8&bg_color=0B1220" alt="Top languages" />
+<img height="180" src="https://streak-stats.demolab.com?user=rishav-dev&hide_border=true&background=0B1220&stroke=1E2A3A&ring=2DD4BF&fire=FBBF24&currStreakLabel=2DD4BF&sideLabels=93A4B8&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=64748B" alt="Streak" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=rishav-dev&hide_border=true&background=0B1220&stroke=1E2A3A&ring=2DD4BF&fire=FBBF24&currStreakLabel=2DD4BF&sideLabels=93A4B8&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=64748B" alt="Streak" />
+<!--
+  OPTIONAL — the classic stats + top-languages cards.
+  They come from github-readme-stats.vercel.app, whose free public instance is
+  shared by the entire internet and is frequently rate-limited (that's why the
+  images broke). Deploy your own free copy in ~4 minutes:
+      https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  Then replace YOUR-INSTANCE below with your Vercel URL and uncomment.
+
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=rishav-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2DD4BF&text_color=93A4B8&icon_color=FBBF24&bg_color=0B1220" alt="GitHub stats" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=rishav-dev&layout=compact&langs_count=8&hide_border=true&title_color=2DD4BF&text_color=93A4B8&bg_color=0B1220" alt="Top languages" />
+-->
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-dev&bg_color=0B1220&color=E6EDF3&title_color=2DD4BF&line=2DD4BF&point=FBBF24&area=true&area_color=2DD4BF&hide_border=true" alt="Contribution activity" />
 
