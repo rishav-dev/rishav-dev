@@ -164,27 +164,27 @@ Level of Traffic Stress scored across real street networks from OpenStreetMap da
 
 ---
 
-## 📈 The numbers
+## 📈 Activity
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=rishav-dev&hide_border=true&background=0B1220&stroke=1E2A3A&ring=2DD4BF&fire=FBBF24&currStreakLabel=2DD4BF&sideLabels=93A4B8&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=64748B" alt="Streak" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-dev&bg_color=0B1220&color=E6EDF3&title_color=2DD4BF&line=2DD4BF&point=FBBF24&area=true&area_color=2DD4BF&hide_border=true" alt="Contribution activity" />
 
 <!--
-  OPTIONAL — the classic stats + top-languages cards.
-  They come from github-readme-stats.vercel.app, whose free public instance is
-  shared by the entire internet and is frequently rate-limited (that's why the
-  images broke). Deploy your own free copy in ~4 minutes:
-      https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  Then replace YOUR-INSTANCE below with your Vercel URL and uncomment.
+  OPTIONAL — the stats, top-languages, streak and trophy cards.
+
+  All four query the GitHub API, which needs an access token. The free public
+  instances share one token across the entire internet, so they spend most of
+  the day rate-limited and render as broken images. That is why they were
+  removed — nothing here is wrong with your setup.
+
+  To get them back reliably, deploy your own copy with your own token (~4 min,
+  free): https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  Then swap YOUR-INSTANCE for your Vercel URL and uncomment.
 
   <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=rishav-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2DD4BF&text_color=93A4B8&icon_color=FBBF24&bg_color=0B1220" alt="GitHub stats" />
   <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=rishav-dev&layout=compact&langs_count=8&hide_border=true&title_color=2DD4BF&text_color=93A4B8&bg_color=0B1220" alt="Top languages" />
 -->
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-dev&bg_color=0B1220&color=E6EDF3&title_color=2DD4BF&line=2DD4BF&point=FBBF24&area=true&area_color=2DD4BF&hide_border=true" alt="Contribution activity" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rishav-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
