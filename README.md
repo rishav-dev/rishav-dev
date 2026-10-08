@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Rishav Chakravarty. Built on data. Driven by curiosity." width="100%" />
+  <img src="./assets/banner.png" alt="Rishav Chakravarty. Data Analytics, Applied Data Science, Product Analytics." width="100%" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/stats.png" alt="Six public repositories. $1,550 in pitch prizes. 25,886 records in one analysis. 519 documents across ten universities." width="100%" />
+  <img src="./assets/stats.png" alt="25,886 posts and comments. 519 documents. 24 years of chart data. $1,550 in pitch awards." width="100%" />
 </div>
 
 <div align="center">
@@ -23,20 +23,19 @@
 
 ## About
 
-I came into data science through psychology. Four years of behavioural research
-before I wrote a line of production code, which is why I tend to start with the
-decision a person actually made rather than the feature that happens to
-correlate with it.
+I came into data science through psychology. That background is why I am
+especially interested in questions about behavior, customers, products, and the
+decisions behind the data.
 
-I am finishing an **M.S. in Data Analytics and Computational Social Science** at
-UMass Amherst. Before that, a postgraduate diploma at UT Austin and a B.S. in
-Psychology with a computer science minor at Virginia Tech. I ran a dining hall
-for five and a half years while doing most of it.
+I am completing an **M.S. in Data Analytics and Computational Social Science** at
+UMass Amherst, graduating in May 2027. Before that, I completed a postgraduate
+diploma in Data Science and Business Analytics at UT Austin and a B.S. in
+Psychology with a computer science minor at Virginia Tech.
 
 Everything below is a public repository. Clone it, run it, check my numbers
 against my data. If I cannot link it, it is not on this page.
 
-<img src="https://img.shields.io/badge/Open_to-Data_Science_·_Machine_Learning_·_Analytics_roles-22D9FF?style=flat-square&labelColor=050509" alt="Open to roles" />
+<img src="https://img.shields.io/badge/Open_to-Data_Analytics_·_Business_%26_Product_Analytics_·_Applied_Data_Science-22D9FF?style=flat-square&labelColor=050509" alt="Open to roles" />
 
 <br />
 
@@ -88,8 +87,7 @@ An argument you scroll through rather than a dashboard you poke at.
 Billboard chart data joined to Spotify audio features, 2000 to 2023,
 ending in a 3D pass through the feature space.
 
-Missing numerics are filtered, not imputed. A quietly imputed audio
-feature is a lie you then plot.
+Missing numerics are filtered, not imputed.
 
 `D3.js` `Three.js` `JavaScript` `Python`
 
@@ -115,7 +113,7 @@ move.
 </table>
 
 <details>
-<summary><b>The number I would defend in a room, from the Reddit study</b></summary>
+<summary><b>Model results from the Reddit study</b></summary>
 
 <br />
 
@@ -131,10 +129,10 @@ Those three are closer to each other than any of them is to a careful reading of
 what the labels actually mean, and I think that is the honest thing to say about
 this kind of work.
 
-The finding worth having came from the topic modelling instead. The clusters are
-mostly **not** about mental health. They are about money, housing, politics and
-social media. The subreddit is where people go to talk about anxiety, and what
-they talk about is rent.
+The finding worth having came from the topic modelling instead. Past the two
+broad mental-health clusters, the next themes are politics, social media, money
+and housing. The subreddit is where people go to talk about anxiety, and a lot of
+what they talk about is rent and the news.
 
 Figures are in `ml_model_results.csv` in the repo.
 
